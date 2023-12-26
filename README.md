@@ -1,5 +1,5 @@
 # fe-interview
-🔥🔥🔥 大厂前端面试、前端面试、前端算法、前端项目实战，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器、低代码、高性能前端脚手架、react前端组件库、微前端、Docker、小程序、设计模式、性能优化、Nginx、Linux、NestJs、NextJs
+🔥🔥🔥 大厂前端面试、前端面试、前端算法、前端项目实战，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html面试题、Css面试题、JavaScript面试题、Vue面试题、React面试题、Node面试题、TypeScript面试题、Webpack面试题、算法面试题、网络与安全、浏览器、低代码、高性能前端脚手架、react前端组件库、微前端、Docker、小程序、设计模式、性能优化、Nginx、Linux、NestJs、NextJs
 
 # 学什么
 - 面试题：前端各种八股文
