@@ -200,3 +200,11 @@
 - [279. 完全平方数]()
 
 
+
+
+# 大厂面试题
+
+[小红书商业化](/code//company/xiaohongshu.md)
+[滴滴-体验平台](/code/company/didi.md)
+[快手-主站](/code/company/kuaishou-zhuzhan.md)
+[快手-商业化](/code/company/kuaishou-shangyehua.md)
