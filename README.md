@@ -75,6 +75,7 @@
 
 ### 三路快排
 
+- [704.二分查找](/code/算法/Array/二分查找/)
 - [75.颜色分类](/code/Algorithm/Array/sort-colors.md)
 - [88.合并两个有序数组](/code/Algorithm/Array/merge-sorted-array.md)
 - [215. 数组中的第 K 个最大元素](/code/Algorithm/Array/kth-largest-element-in-an-array.md)
