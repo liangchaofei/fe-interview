@@ -79,6 +79,8 @@
 - [75.颜色分类](/code/Algorithm/Array/sort-colors.md)
 - [88.合并两个有序数组](/code/Algorithm/Array/merge-sorted-array.md)
 - [215. 数组中的第 K 个最大元素](/code/Algorithm/Array/kth-largest-element-in-an-array.md)
+- [27.移除元素](/code/算法/Array/双指针/27-移除元素/)
+- [80.移动零](/code/算法/Array/双指针/移动零)
 
 ### 对撞指针
 
